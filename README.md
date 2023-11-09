@@ -7,7 +7,7 @@ O projeto consiste em um portfólio digital desenvolvido com HTML, CSS e JavaScr
 Projeto desenvolvimento na Disciplina de Programação Web cursada no quarto semestre de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba em 2023.
  <br>
 <hr>
-<h3>Acesse o site:</h3> 
+<h3>Acesse o site:</h3> https://johnbrito25.github.io/Portfolio/
 <br><br>
  </td>
  <td width="50%">
